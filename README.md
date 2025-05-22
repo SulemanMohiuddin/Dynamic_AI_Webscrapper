@@ -1,4 +1,8 @@
-# 🌐💬 Dynamic AI Webscrapper
+![Gemini_Generated_Image_vttqr0vttqr0vttq](https://github.com/user-attachments/assets/72ca2e06-e85c-406d-846c-da99cf4e2017)
+
+
+
+<h1 align="center">🌐 Dynamic AI Webscraper</h1>
 
 ![PyQt5](https://img.shields.io/badge/PyQt5-GUI-blue?style=for-the-badge)
 ![Groq AI](https://img.shields.io/badge/Groq%20AI-Chatbot-brightgreen?style=for-the-badge)
@@ -41,6 +45,11 @@
 > 🖼️ Live Screenshot:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3cb1da6c-078d-43b0-9db4-d92a90616401" width="800">
+  <img src="https://github.com/user-attachments/assets/2f6576dd-0ec0-451d-b12b-5175b873838e" width="800">
+  <img src="https://github.com/user-attachments/assets/e2ed479e-fc9d-4362-b0ca-b696e0f1d062" width="800">
+  <img src="https://github.com/user-attachments/assets/26315c2c-005f-4f4a-9006-6e47fc3ff3b3" width="800">
+
+
 </p>
 
 ---
